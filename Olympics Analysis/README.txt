@@ -7,6 +7,6 @@ Dashboards can be filtered by
 - Competitor
 
 
-Technology Used:
+Technologies Used:
 - PowerBI
 - SQL Management Studio
