@@ -1,0 +1,22 @@
+select id,
+name,
+CASE
+	WHEN sex = 'M' THEN 'Male' ELSE 'Female' END AS 'Sex',
+Age,
+CASE
+	WHEN AGE < 18 THEN 'Under 18'
+	WHEN AGE BETWEEN 18 AND 25 THEN '18-25'
+	WHEN AGE BETWEEN 25 AND 30 THEN '25-30'
+	WHEN AGE > 30 THEN 'OVER 30'
+	END AS 'Age Grouping',
+Height,
+Weight,
+NOC as 'Country Code', --- Easier to understand
+Left(Games,4) as 'Year', --- Split column to get a year
+Right(Games,6) as 'Season', --- Split column to get season
+--- City not needed for analysis
+Sport,
+Event,
+CASE
+	WHEN Medal = 'Na' THEN 'Not Registered' ELSE Medal END AS Medal -- Replaced Na with Not registered
+	FROM dbo.olympics --- this is table on SQL SERVER MANAGEMENT STUDIO
