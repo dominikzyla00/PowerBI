@@ -9,4 +9,4 @@ Dashboards can be filtered by
 
 Technologies Used:
 - PowerBI
-- SQL Management Studio
+- Microsoft SQL Server Management Studio
