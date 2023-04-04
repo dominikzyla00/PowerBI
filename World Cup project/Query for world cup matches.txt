@@ -1,0 +1,23 @@
+QUERY FOR WORLD CUP MATCHES
+
+SELECT [Year]
+      ---[Datetime] No needed for analysis
+      ,[Stage]
+     --- ,[Stadium] No needed for analysis
+      ,[City]
+      ,[Home_Team_Name] as 'Home Team'
+      ,[Home_Team_Goals] as 'Home Team Goals'
+      ,[Away_Team_Goals] as 'Away Team Goals'
+      ,[Away_Team_Name] as 'Away Team'
+      ---,[Win_conditions] No needed for analysis
+      --- ,[Attendance] No needed for analysis
+      ,[Half_time_Home_Goals] as 'Half Time Home Team Goals'
+      ,[Half_time_Away_Goals] as 'Half Time Away Team Goals'
+     ---,[Referee] No needed for analysis
+     --- ,[Assistant_1] No needed for analysis
+      --- ,[Assistant_2] No needed for analysis
+     ,[RoundID] 
+     ,[MatchID] 
+      ,[Home_Team_Initials] as 'Home Team Initials'
+      ,[Away_Team_Initials] as 'Away Team Initials'
+  FROM [World Cup Analysis].[dbo].[WorldCupMatches]
