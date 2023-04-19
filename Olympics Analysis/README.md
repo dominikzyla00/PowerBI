@@ -5,6 +5,7 @@
 - Country
 - Season
 - Competitor
+![image](https://user-images.githubusercontent.com/113947177/233140633-50598c76-4da2-413e-a93a-c6474f5a2ad3.png)
 
 
 **Technologies Used:**
