@@ -1,2 +1,2 @@
-# My PowerBI Projects, Look at the folders :)
+# My PowerBI Projects. Look at the folders :)
 
