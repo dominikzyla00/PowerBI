@@ -5,17 +5,17 @@
 **DATA SOURCE:** https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
 - Sales between 2011 and 2014
 
-**DASHBOARDS LIST**
+**Tools Used:**
+
+- Microsoft PowerBI
+- SQL Server Mnagement Studio
+
+# DASHBOARDS
 
 - Sales Analysis
 - Profit Analysis
 - Products Analysis
 - Shipping and Order Processing Analysis
 - RFM Analysis
-
-**Tools Used:**
-
-- Microsoft PowerBI
-- SQL Server Mnagement Studio
 
 
