@@ -8,7 +8,7 @@
 **Tools Used:**
 
 - Microsoft PowerBI
-- SQL Server Mnagement Studio
+- SQL Server Management Studio (It helped me making RFM Dashboard)
 
 # DASHBOARDS
 
@@ -49,7 +49,7 @@ It says that company Profit Growth is more dynamic that Sales Growth
 - The most dynamic YoY Profit Growth was in **EMEA** 109,34% and least dynamic in **APAC** 23,05%
 - Sales are above average in **June** and from **August to December**
 
----
+
 **Product Analysis**
 - We have Sales by Country and Product Category Map in hidden tab which we can access via button at the left top of the bashboard
 ![image](https://user-images.githubusercontent.com/113947177/234250569-a5ea7240-650c-4be6-a7dd-0626de910bf1.png)
@@ -65,4 +65,26 @@ It says that company Profit Growth is more dynamic that Sales Growth
 
 **Shipping and Order Processing Analysis**
 - We have Shipping and Order Processing Analysis Map in hidden tab which we can access via button at the left top of the bashboard
+![image](https://user-images.githubusercontent.com/113947177/234254422-4ea0ee3f-53bb-46ec-be7a-fcde999ff2bb.png)
 
+![image](https://user-images.githubusercontent.com/113947177/234254491-a5283cce-c928-4af5-8eef-d0b5b573b584.png)
+
+
+**Insights:**
+- Shipping cost is decreasing every year except 2013 (from 27.1 in 2011 to 26.3 in 2014)
+- Shipping Cost in **Home Office** Segment went down by 2.3 in 2012 and then went up by 3 in 2013
+- Shipping Cost and Order Processing time are negatively correlated and dependent on Ship Mode
+- Shipping cost is lower in **Technology Category** than in other Categories by 70%~
+- Order processing Time is lowest in Canada **3,68** (0,29 days below average)
+- 
+
+
+**RFM Analysis**
+![image](https://user-images.githubusercontent.com/113947177/234261229-38d3cbbd-287a-4650-a124-1fbd2a5b9209.png)
+
+**Insights:**
+- Most Sales from 2011 to 2014 were made by customers that are considered as "Lost Customers" now
+Company should think about the way how to keep these customers
+- Most customers are in Consumer Segment
+- APAC market have highest shipping cost, EMEA and Canada have the lowest
+- 59,57% of the orders have **Standard shipping** mode, least preferred is **Same day** with 5,29%
