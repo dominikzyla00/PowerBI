@@ -4,7 +4,7 @@
 
 **DATA SOURCE:** https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
 
-# DASBOARDS INCLUDED
+# DASHBOARDS
 
 - Sales Analysis
 - Profit Analysis
