@@ -1,0 +1,796 @@
+customer_name;rfm_recency;rfm_frequency;rfm_monetary;rfm_sum_string;rfm_segment
+Darren Budd;1;1;1;111;lost customer
+Michael Oakman;3;1;1;311;new customer
+Nicole Brennan;1;1;1;111;lost customer
+David Bremer;4;1;1;411;new customer
+Paul Knutson;1;1;1;111;lost customer
+Peter Bühler;4;1;1;411;new customer
+Sarah Bern;4;1;2;412;new customer
+Gary Mitchum;2;1;1;211;lost customer
+Kalyca Meade;4;1;1;411;new customer
+Lisa Hazard;1;1;1;111;lost customer
+Katherine Ducich;1;1;1;111;lost customer
+Thomas Brumley;1;1;1;111;lost customer
+David Flashing;3;1;1;311;new customer
+Vivek Sundaresam;2;1;1;211;lost customer
+Matthew Grinstein;2;1;2;212;lost customer
+Susan MacKendrick;1;1;1;111;lost customer
+Ionia McGrath;3;1;1;311;new customer
+Shirley Schmidt;4;1;1;411;new customer
+Pauline Chand;2;1;1;211;lost customer
+Liz MacKendrick;3;1;3;313;new customer
+Paul Lucas;3;1;2;312;new customer
+Cindy Stewart;2;1;2;212;lost customer
+Duane Benoit;3;1;2;312;new customer
+Chad McGuire;3;1;3;313;new customer
+Barry Weirich;2;1;3;213;lost customer
+Fred Harton;4;1;1;411;new customer
+Vivian Mathis;3;1;1;311;new customer
+Eileen Kiefer;1;1;1;111;lost customer
+Sylvia Foulston;1;1;1;111;lost customer
+Andy Reiter;4;1;1;411;new customer
+Allen Goldenen;1;1;1;111;lost customer
+Sandra Glassco;4;1;1;411;new customer
+Adrian Shami;1;1;1;111;lost customer
+Sharelle Roach;3;1;2;312;new customer
+Amy Hunt;1;1;1;111;lost customer
+Sibella Parks;3;1;1;311;new customer
+Catherine Glotzbach;2;1;1;211;lost customer
+Emily Burns;3;1;1;311;new customer
+Brendan Dodson;3;1;1;311;new customer
+Kristina Nunn;1;1;1;111;lost customer
+Nathan Cano;1;1;1;111;lost customer
+Tracy Zic;1;1;1;111;lost customer
+Brooke Gillingham;3;1;1;311;new customer
+Jocasta Rupert;3;1;1;311;new customer
+Brian Dahlen;1;1;1;111;lost customer
+Harold Ryan;1;1;1;111;lost customer
+Jill Stevenson;4;1;1;411;new customer
+Don Weiss;3;1;2;312;new customer
+Hunter Lopez;2;1;4;214;lost customer
+Andrew Allen;1;1;4;114;lost customer
+Benjamin Venier;1;1;4;114;lost customer
+Patrick Jones;1;1;2;112;lost customer
+Ralph Ritter;2;1;2;212;lost customer
+Claire Gute;2;1;2;212;lost customer
+Gene Hale;1;1;3;113;lost customer
+Craig Carroll;1;1;3;113;lost customer
+Dianna Vittorini;3;1;3;313;new customer
+Nora Paige;1;1;3;113;lost customer
+Carlos Meador;1;1;1;111;lost customer
+Dorothy Badders;4;1;1;411;new customer
+Victoria Brennan;4;1;1;411;new customer
+Jessica Myrick;3;1;1;311;new customer
+Liz Willingham;1;1;1;111;lost customer
+Karen Seio;1;1;1;111;lost customer
+Sung Shariari;3;1;1;311;new customer
+Robert Barroso;1;1;1;111;lost customer
+Anna Chung;4;1;1;411;new customer
+Jas O'Carroll;3;1;1;311;new customer
+Jeremy Lonsdale;2;1;1;211;lost customer
+Clay Rozendal;2;1;1;211;lost customer
+Don Miller;1;1;1;111;lost customer
+Jennifer Jackson;2;1;1;211;lost customer
+Cathy Armstrong;3;1;2;312;new customer
+Chad Sievert;3;1;2;312;new customer
+Toby Ritter;4;1;2;412;new customer
+John Stevenson;3;1;1;311;new customer
+Pamela Coakley;4;1;1;411;new customer
+Craig Molinari;1;1;1;111;lost customer
+Adrian Hane;2;1;1;211;lost customer
+Stuart Calhoun;2;1;1;211;lost customer
+Roland Fjeld;4;1;2;412;new customer
+Sally Knutson;3;1;2;312;new customer
+Tom Prescott;1;1;2;112;lost customer
+Arianne Irving;3;1;1;311;new customer
+Edward Becker;2;1;1;211;lost customer
+Roland Murray;3;1;1;311;new customer
+Erin Creighton;1;1;1;111;lost customer
+Bill Overfelt;2;1;1;211;lost customer
+Christine Abelman;3;1;1;311;new customer
+Roy Collins;1;1;1;111;lost customer
+Michelle Lonsdale;3;1;1;311;new customer
+John Lucas;1;1;1;111;lost customer
+Hallie Redmond;3;1;3;313;new customer
+Jim Radford;3;1;3;313;new customer
+Alex Avila;4;1;3;413;new customer
+Anne Pryor;1;1;3;113;lost customer
+Kunst Miller;2;1;3;213;lost customer
+Elpida Rittenbach;1;1;3;113;lost customer
+Amy Cox;4;1;3;413;new customer
+Erin Mull;2;1;3;213;lost customer
+Greg Maxwell;1;1;3;113;lost customer
+Brian Thompson;2;1;2;212;lost customer
+Eudokia Martin;3;1;2;312;new customer
+Kimberly Carter;4;1;2;412;new customer
+Christy Brittain;2;1;2;212;lost customer
+Bart Folk;2;1;2;212;lost customer
+Justin Ritter;2;1;2;212;lost customer
+Luke Foster;2;1;2;212;lost customer
+Ricardo Emerson;2;1;2;212;lost customer
+Cynthia Voltz;4;1;2;412;new customer
+Michael Nguyen;3;1;2;312;new customer
+Hilary Holden;1;1;2;112;lost customer
+Debra Catini;2;1;3;213;lost customer
+Katrina Willman;2;1;3;213;lost customer
+Pete Armstrong;2;1;1;211;lost customer
+Nona Balk;2;1;1;211;lost customer
+Patricia Hirasaki;1;1;1;111;lost customer
+Nancy Lomonaco;2;1;1;211;lost customer
+Theresa Swint;3;1;1;311;new customer
+Kean Thornton;2;1;1;211;lost customer
+Thais Sissman;1;1;1;111;lost customer
+Fred McMath;4;1;1;411;new customer
+Lindsay Shagiari;2;1;1;211;lost customer
+Fred Chung;1;1;1;111;lost customer
+Ryan Crowe;2;1;1;211;lost customer
+Frank Gastineau;1;1;1;111;lost customer
+Larry Hughes;3;1;1;311;new customer
+Andy Yotov;3;1;1;311;new customer
+Robert Marley;4;1;2;412;new customer
+Ken Dana;1;1;2;112;lost customer
+Deborah Brumfield;3;1;2;312;new customer
+Joni Blumstein;3;1;2;312;new customer
+Astrea Jones;1;1;2;112;lost customer
+Anemone Ratner;4;1;1;411;new customer
+Andy Gerbode;3;1;1;311;new customer
+Chris McAfee;1;1;1;111;lost customer
+Eric Barreto;3;1;1;311;new customer
+Matt Hagelstein;2;1;1;211;lost customer
+Nicole Fjeld;3;1;2;312;new customer
+Grant Thornton;3;1;4;314;new customer
+Sean Braxton;1;1;4;114;lost customer
+Evan Minnotte;1;1;4;114;lost customer
+Ann Blume;3;1;3;313;new customer
+Mike Gockenbach;4;1;4;414;new customer
+Vivek Grady;4;1;4;414;new customer
+Barry Franz;3;1;4;314;new customer
+Sean Miller;2;1;4;214;lost customer
+Bill Stewart;2;1;3;213;lost customer
+Quincy Jones;2;1;3;213;lost customer
+Grace Kelly;3;1;4;314;new customer
+Dana Kaydos;1;1;4;114;lost customer
+Janet Lee;4;1;4;414;new customer
+Nicole Hansen;4;1;4;414;new customer
+Scot Coram;3;1;4;314;new customer
+Daniel Lacy;1;1;1;111;lost customer
+Annie Zypern;2;1;1;211;lost customer
+Nat Gilpin;1;1;1;111;lost customer
+Brendan Sweed;1;1;1;111;lost customer
+Bill Tyler;2;1;1;211;lost customer
+Matt Collister;1;1;1;111;lost customer
+Sung Chung;3;1;1;311;new customer
+Peter McVee;3;1;1;311;new customer
+Matt Connell;1;1;2;112;lost customer
+Vicky Freymann;3;1;2;312;new customer
+Susan Gilcrest;3;1;2;312;new customer
+Matt Abelman;1;1;2;112;lost customer
+Henia Zydlo;1;1;2;112;lost customer
+Christopher Schild;4;1;2;412;new customer
+Justin Ellison;2;1;2;212;lost customer
+Michelle Huthwaite;3;1;2;312;new customer
+Jesus Ocampo;3;1;1;311;new customer
+Mike Caudle;1;1;1;111;lost customer
+Tamara Dahlen;4;1;1;411;new customer
+Joni Sundaresam;4;1;1;411;new customer
+Roy Skaria;2;1;1;211;lost customer
+Edward Nazzal;3;1;1;311;new customer
+Gene McClure;1;1;1;111;lost customer
+Arthur Wiediger;1;1;1;111;lost customer
+Julia Dunbar;1;1;1;111;lost customer
+Michelle Ellison;1;1;1;111;lost customer
+Guy Armstrong;4;1;1;411;new customer
+Todd Boyes;3;1;1;311;new customer
+Allen Rosenblatt;1;1;1;111;lost customer
+Rob Williams;1;1;1;111;lost customer
+Jack Garza;4;1;3;413;new customer
+Aimee Bixby;1;1;3;113;lost customer
+Denny Blanton;2;1;3;213;lost customer
+Helen Abelman;3;1;3;313;new customer
+Bruce Geld;4;1;3;413;new customer
+Roger Barcio;3;1;3;313;new customer
+Marc Harrigan;1;1;3;113;lost customer
+Luke Schmidt;3;1;3;313;new customer
+Eva Jacobs;2;1;2;212;lost customer
+Patrick Bzostek;3;1;2;312;new customer
+Candace McMahon;1;1;2;112;lost customer
+Sung Pak;1;1;2;112;lost customer
+Steve Nguyen;1;1;2;112;lost customer
+Frank Hawley;4;1;2;412;new customer
+Neoma Murray;2;1;2;212;lost customer
+Neil Knudson;2;2;2;222;lost customer
+Natalie DeCherney;3;2;2;322;active customer
+Chuck Magee;3;2;2;322;active customer
+Jason Gross;4;2;2;422;active customer
+Carl Jackson;3;2;2;322;active customer
+Carol Triggs;2;2;2;222;lost customer
+Jill Matthias;4;2;2;422;active customer
+Stefanie Holloman;2;2;2;222;lost customer
+Carl Weiss;3;2;2;322;active customer
+Eleni McCrary;1;2;2;122;lost customer
+Duane Noonan;3;2;2;322;active customer
+Tom Stivers;2;2;3;223;lost customer
+Dianna Arnett;3;2;2;322;active customer
+Bobby Odegard;4;2;2;422;active customer
+Ritsa Hightower;3;2;3;323;active customer
+Janet Martin;3;2;3;323;active customer
+Ken Black;1;2;3;123;lost customer
+Cathy Hwang;1;2;3;123;lost customer
+Shaun Chance;3;2;1;321;active customer
+Christina VanderZanden;1;2;1;121;lost customer
+Stephanie Ulpright;4;2;1;421;active customer
+Sandra Flanagan;1;2;1;121;lost customer
+Mary O'Rourke;1;2;1;121;lost customer
+Lena Cacioppo;2;2;1;221;lost customer
+Rob Haberlin;4;2;1;421;active customer
+Evan Bailliet;2;2;1;221;lost customer
+Tim Taslimi;4;2;1;421;active customer
+Harold Pawlan;2;2;1;221;lost customer
+Charlotte Melton;4;2;2;422;active customer
+Duane Huffman;2;2;2;222;lost customer
+Jamie Kunitz;1;2;2;122;lost customer
+Neil Französisch;3;2;2;322;active customer
+Jack O'Briant;4;2;2;422;active customer
+Shirley Jackson;1;2;2;122;lost customer
+Sonia Sunley;4;2;2;422;active customer
+John Dryer;3;2;1;321;active customer
+Luke Weiss;2;2;1;221;lost customer
+Zuschuss Donatelli;4;2;2;422;active customer
+Frank Carlisle;1;2;2;122;lost customer
+Nick Crebassa;3;2;2;322;active customer
+Russell Applegate;3;2;4;324;active customer
+Mathew Reese;1;2;4;124;lost customer
+Julia West;4;2;4;424;loyal customer
+Caroline Jumper;1;2;4;124;lost customer
+Phillina Ober;1;2;4;124;lost customer
+Claudia Bergmann;3;2;3;323;active customer
+Brad Eason;4;2;4;424;loyal customer
+Raymond Buch;2;2;4;224;big customer, cannot lose
+Christopher Martinez;1;2;4;124;lost customer
+Lena Radford;2;2;4;224;big customer, cannot lose
+Karen Daniels;1;2;4;124;lost customer
+Tom Ashbrook;3;2;4;324;active customer
+Mitch Willingham;4;2;4;424;loyal customer
+Jeremy Pistek;3;2;3;323;active customer
+Karen Ferguson;2;2;3;223;lost customer
+Alan Dominguez;4;2;3;423;active customer
+Cynthia Arntzen;1;2;4;124;lost customer
+Nick Zandusky;1;2;4;124;lost customer
+Liz Carlisle;4;2;4;424;loyal customer
+John Castell;4;2;2;422;active customer
+Xylona Preis;1;2;1;121;lost customer
+Cari Schnelling;1;2;1;121;lost customer
+George Bell;1;2;1;121;lost customer
+Ann Steele;1;2;1;121;lost customer
+Rob Beeghly;2;2;1;221;lost customer
+Lynn Smith;1;2;1;121;lost customer
+Laurel Elliston;3;2;1;321;active customer
+Bradley Drucker;2;2;2;222;lost customer
+Sally Matthias;1;2;2;122;lost customer
+Jim Kriz;4;2;2;422;active customer
+Corey-Lock;4;2;2;422;active customer
+Pete Takahito;4;2;2;422;active customer
+Mark Packer;4;2;2;422;active customer
+Charles Crestani;1;2;2;122;lost customer
+Carol Darley;4;2;2;422;active customer
+Michael Granlund;4;2;2;422;active customer
+Giulietta Baptist;3;2;2;322;active customer
+Chad Cunningham;1;2;2;122;lost customer
+Mike Kennedy;2;2;2;222;lost customer
+Deanra Eno;2;2;2;222;lost customer
+Troy Blackwell;2;2;1;221;lost customer
+Barbara Fisher;2;2;1;221;lost customer
+Clay Cheatham;2;2;1;221;lost customer
+Sean Wendt;3;2;1;321;active customer
+Jeremy Ellison;2;2;1;221;lost customer
+Stephanie Phelps;2;2;1;221;lost customer
+David Wiener;4;2;1;421;active customer
+Ed Jacobs;1;2;1;121;lost customer
+Barry Pond;4;2;1;421;active customer
+Beth Fritzler;3;2;1;321;active customer
+Dennis Bolton;1;2;1;121;lost customer
+Trudy Schmidt;1;2;1;121;lost customer
+Corinna Mitchell;2;2;3;223;lost customer
+Neola Schneider;3;2;3;323;active customer
+Pauline Johnson;2;2;3;223;lost customer
+Valerie Dominguez;4;2;3;423;active customer
+Liz Preis;4;2;3;423;active customer
+Max Jones;2;2;3;223;lost customer
+Richard Eichhorn;3;2;3;323;active customer
+Robert Dilbeck;2;2;3;223;lost customer
+Bryan Spruell;3;2;3;323;active customer
+George Zrebassa;2;2;3;223;lost customer
+Scot Wooten;3;2;3;323;active customer
+Becky Pak;2;2;2;222;lost customer
+Aleksandra Gannaway;4;2;2;422;active customer
+Dorris liebe;4;2;2;422;active customer
+Tamara Manning;1;2;2;122;lost customer
+Ralph Kennedy;2;2;2;222;lost customer
+Lindsay Castell;4;2;2;422;active customer
+Cassandra Brandow;3;2;2;322;active customer
+Doug O'Connell;2;2;2;222;lost customer
+Georgia Rosenberg;1;2;2;122;lost customer
+George Ashbrook;2;2;2;222;lost customer
+Sheri Gordon;1;2;2;122;lost customer
+Bryan Davis;1;2;2;122;lost customer
+Skye Norling;3;2;2;322;active customer
+Katrina Bavinger;2;2;2;222;lost customer
+Aaron Smayling;2;2;2;222;lost customer
+Thomas Thornton;4;2;2;422;active customer
+Roland Schwarz;1;2;2;122;lost customer
+Thea Hendricks;4;2;3;423;active customer
+Thea Hudgings;1;2;3;123;lost customer
+Anna Gayman;1;2;3;123;lost customer
+Chuck Clark;4;2;2;422;active customer
+Jason Klamczynski;1;2;3;123;lost customer
+Rob Lucas;1;2;3;123;lost customer
+Maria Zettner;2;2;3;223;lost customer
+Christina DeMoss;3;2;3;323;active customer
+Michelle Tran;1;2;3;123;lost customer
+Noah Childs;2;2;3;223;lost customer
+Thomas Boland;1;2;3;123;lost customer
+Rick Hansen;2;2;3;223;lost customer
+Jim Sink;1;2;3;123;lost customer
+Sean O'Donnell;2;2;3;223;lost customer
+Nat Carroll;4;2;3;423;active customer
+Brenda Bowman;2;2;3;223;lost customer
+Susan Vittorini;4;2;3;423;active customer
+Ruben Ausman;1;2;3;123;lost customer
+Vivek Gonzalez;1;2;1;121;lost customer
+Bobby Trafton;1;2;1;121;lost customer
+Helen Andreada;2;2;1;221;lost customer
+Jay Fein;3;2;1;321;active customer
+Laurel Workman;2;2;1;221;lost customer
+Allen Armold;4;2;1;421;active customer
+Pierre Wener;4;2;1;421;active customer
+Shaun Weien;3;2;1;321;active customer
+Liz Pelletier;1;2;1;121;lost customer
+Tanja Norvell;2;2;1;221;lost customer
+Guy Thornton;4;2;1;421;active customer
+Bradley Nguyen;3;2;2;322;active customer
+Barry Französisch;3;2;2;322;active customer
+Tracy Hopkins;4;2;2;422;active customer
+Angele Hood;2;2;1;221;lost customer
+Charles McCrossin;2;2;4;224;big customer, cannot lose
+Yoseph Carroll;4;2;4;424;loyal customer
+Carlos Daly;4;2;4;424;loyal customer
+Magdelene Morse;4;2;4;424;loyal customer
+Ellis Ballard;4;2;4;424;loyal customer
+Brian Stugart;2;2;4;224;big customer, cannot lose
+Tony Sayre;3;2;4;324;active customer
+Victoria Pisteka;1;2;3;123;lost customer
+Benjamin Patterson;1;2;3;123;lost customer
+Bill Shonely;4;2;4;424;loyal customer
+David Philippe;3;2;4;324;active customer
+Chuck Sachs;4;2;4;424;loyal customer
+Dave Poirier;4;2;4;424;loyal customer
+Rick Wilson;2;2;4;224;big customer, cannot lose
+Susan Pistek;4;2;4;424;loyal customer
+Jason Fortune-;1;2;4;124;lost customer
+Denny Joy;4;2;4;424;loyal customer
+Emily Grady;2;2;4;224;big customer, cannot lose
+Pete Kriz;3;2;3;323;active customer
+Raymond Messe;3;2;3;323;active customer
+Maureen Gnade;4;2;3;423;active customer
+Yana Sorensen;4;2;4;424;loyal customer
+Valerie Takahito;3;2;4;324;active customer
+Katherine Nockton;2;2;4;224;big customer, cannot lose
+Kelly Collister;2;2;4;224;big customer, cannot lose
+Liz Thompson;1;2;4;124;lost customer
+Mark Van Huff;2;2;1;221;lost customer
+Joy Daniels;1;2;1;121;lost customer
+Anthony Johnson;1;2;2;122;lost customer
+Linda Southworth;3;2;2;322;active customer
+Darrin Sayre;1;2;2;122;lost customer
+Benjamin Farhat;2;2;2;222;lost customer
+Lena Hernandez;2;2;2;222;lost customer
+Ivan Liston;1;2;2;122;lost customer
+Doug Bickford;2;2;2;222;lost customer
+Ken Heidel;3;2;1;321;active customer
+Erica Hackney;1;2;1;121;lost customer
+Dorothy Dickinson;1;2;1;121;lost customer
+Joni Wasserman;4;2;1;421;active customer
+Khloe Miller;3;2;1;321;active customer
+Cyra Reiten;1;2;3;123;lost customer
+Ted Butterfield;1;2;3;123;lost customer
+Dionis Lloyd;2;2;3;223;lost customer
+Maribeth Yedwab;2;2;3;223;lost customer
+Brian Moss;1;2;3;123;lost customer
+Corey Catlett;2;2;3;223;lost customer
+Michael Stewart;3;3;3;333;active customer
+Joseph Airdo;4;3;3;433;loyal customer
+Randy Ferguson;4;3;3;433;loyal customer
+Bradley Talbott;1;3;3;133;big customer, cannot lose
+Marina Lichtenstein;4;3;3;433;loyal customer
+Julie Kriz;1;3;3;133;big customer, cannot lose
+Anthony Witt;3;3;2;332;active customer
+Anthony O'Donnell;3;3;2;332;active customer
+Rachel Payne;3;3;2;332;active customer
+Neil Ducich;4;3;2;432;active customer
+James Lanier;3;3;2;332;active customer
+Cynthia Delaney;1;3;2;132;lost customer
+Elizabeth Moffitt;1;3;2;132;lost customer
+Paul MacIntyre;2;3;2;232;lost customer
+Rick Huthwaite;2;3;2;232;lost customer
+Maureen Fritzler;1;3;2;132;lost customer
+Ryan Akin;4;3;2;432;active customer
+Jim Epp;1;3;2;132;lost customer
+Doug Jacobs;3;3;2;332;active customer
+David Smith;3;3;2;332;active customer
+Alejandro Grove;3;3;2;332;active customer
+Berenike Kampe;2;3;2;232;lost customer
+Kelly Lampkin;3;3;2;332;active customer
+Greg Guthrie;1;3;2;132;lost customer
+MaryBeth Skach;3;3;2;332;active customer
+Roy Phan;2;3;2;232;lost customer
+Ben Wallace;1;3;2;132;lost customer
+Maris LaWare;1;3;2;132;lost customer
+Heather Kirkland;1;3;3;133;big customer, cannot lose
+Guy Phonely;4;3;3;433;loyal customer
+Ed Braxton;1;3;3;133;big customer, cannot lose
+Meg Tillman;1;3;3;133;big customer, cannot lose
+Keith Herrera;3;3;3;333;active customer
+Giulietta Weimer;3;3;3;333;active customer
+Philisse Overcash;2;3;3;233;big customer, cannot lose
+Pamela Stobb;2;3;3;233;big customer, cannot lose
+Rick Duston;4;3;3;433;loyal customer
+Ted Trevino;3;3;3;333;active customer
+Janet Molinari;1;3;3;133;big customer, cannot lose
+Nora Preis;2;3;3;233;big customer, cannot lose
+Russell D'Ascenzo;2;3;3;233;big customer, cannot lose
+Justin MacKendrick;3;3;1;331;active customer
+Beth Paige;3;3;2;332;active customer
+Cindy Schnelling;4;3;2;432;active customer
+Scott Cohen;4;3;2;432;active customer
+Robert Waldorf;3;3;2;332;active customer
+Jay Kimmel;4;3;2;432;active customer
+Mick Hernandez;4;3;2;432;active customer
+Naresj Patel;4;3;2;432;active customer
+Michelle Moray;3;3;2;332;active customer
+Victor Preis;2;3;1;231;lost customer
+Alyssa Crouse;4;3;2;432;active customer
+Lisa DeCherney;1;3;1;131;lost customer
+Michelle Arnett;2;3;1;231;lost customer
+Mark Haberlin;3;3;1;331;active customer
+Dennis Pardue;4;3;1;431;active customer
+Sean Christensen;3;3;4;334;active customer
+Delfina Latchford;2;3;4;234;big customer, cannot lose
+Natalie Webber;1;3;4;134;big customer, cannot lose
+Michael Dominguez;1;3;4;134;big customer, cannot lose
+Paul Prost;3;3;4;334;active customer
+Stuart Van;3;3;4;334;active customer
+Denise Monton;4;3;4;434;loyal customer
+Arthur Gainer;2;3;4;234;big customer, cannot lose
+Cathy Prescott;1;3;4;134;big customer, cannot lose
+Erin Smith;2;3;3;233;big customer, cannot lose
+Katherine Murray;4;3;3;433;loyal customer
+Giulietta Dortch;4;3;3;433;loyal customer
+Ken Lonsdale;4;3;4;434;loyal customer
+Penelope Sewall;2;3;4;234;big customer, cannot lose
+Greg Tran;3;3;4;334;active customer
+Carol Adams;2;3;4;234;big customer, cannot lose
+Justin Deggeller;4;3;4;434;loyal customer
+Jennifer Ferguson;4;3;4;434;loyal customer
+Phillip Breyer;3;3;4;334;active customer
+Christine Phan;3;3;4;334;active customer
+Dave Brooks;3;3;4;334;active customer
+Paul Van Hugh;3;3;4;334;active customer
+Fred Wasserman;4;3;3;433;loyal customer
+Larry Tron;3;3;3;333;active customer
+Charles Sheldon;1;3;4;134;big customer, cannot lose
+Joel Jenkins;4;3;4;434;loyal customer
+Barry Gonzalez;2;3;4;234;big customer, cannot lose
+Bruce Stewart;4;3;4;434;loyal customer
+Cari Sayre;3;3;4;334;active customer
+Toby Carlisle;3;3;4;334;active customer
+Irene Maddox;1;3;4;134;big customer, cannot lose
+Aaron Hawkins;3;3;4;334;active customer
+Lycoris Saunders;4;3;1;431;active customer
+Erin Ashbrook;1;3;1;131;lost customer
+Beth Thompson;2;3;1;231;lost customer
+Craig Carreira;2;3;1;231;lost customer
+Brendan Murry;1;3;1;131;lost customer
+Karen Bern;4;3;1;431;active customer
+Annie Thurman;4;3;2;432;active customer
+Nick Radford;4;3;2;432;active customer
+Lindsay Williams;3;3;1;331;active customer
+Frank Preis;2;3;1;231;lost customer
+Tracy Collins;4;3;1;431;active customer
+Maurice Satty;2;3;1;231;lost customer
+Paul Gonzalez;4;3;3;433;loyal customer
+Eugene Barchas;2;3;3;233;big customer, cannot lose
+Melanie Seite;4;3;3;433;loyal customer
+Jenna Caffey;3;3;3;333;active customer
+Nora Pelletier;3;3;3;333;active customer
+Rick Reed;4;3;3;433;loyal customer
+Gary McGarr;4;3;3;433;loyal customer
+Mary Zewe;2;3;3;233;big customer, cannot lose
+Meg O'Connel;3;3;3;333;active customer
+Kean Nguyen;1;3;3;133;big customer, cannot lose
+Brian Derr;3;3;3;333;active customer
+Deirdre Greer;3;3;3;333;active customer
+Stewart Visinsky;2;3;3;233;big customer, cannot lose
+Henry MacAllister;2;3;3;233;big customer, cannot lose
+Julia Barnett;4;3;3;433;loyal customer
+Alan Haines;1;3;3;133;big customer, cannot lose
+Becky Castell;2;3;2;232;lost customer
+Julie Creighton;1;3;2;132;lost customer
+Richard Bierner;2;3;2;232;lost customer
+Dean Braden;3;3;2;332;active customer
+Patrick Ryan;2;3;2;232;lost customer
+Ed Ludwig;2;3;2;232;lost customer
+Chris Selesnick;4;3;2;432;active customer
+Michael Grace;4;3;2;432;active customer
+Ricardo Sperren;1;3;2;132;lost customer
+Frank Atkinson;2;3;2;232;lost customer
+Thomas Seio;2;3;2;232;lost customer
+Tamara Willingham;2;3;2;232;lost customer
+Craig Yedwab;1;3;2;132;lost customer
+Maya Herman;4;3;2;432;active customer
+Lori Olson;4;3;2;432;active customer
+Katrina Edelman;2;3;2;232;lost customer
+Lauren Leatherbury;2;3;2;232;lost customer
+Tom Zandusky;3;3;3;333;active customer
+Daniel Byrd;4;3;3;433;loyal customer
+Max Ludwig;4;3;3;433;loyal customer
+Jim Karlsson;4;3;3;433;loyal customer
+Linda Cazamias;1;3;3;133;big customer, cannot lose
+Victoria Wilson;4;3;3;433;loyal customer
+Alex Russell;2;3;3;233;big customer, cannot lose
+Mark Cousins;2;3;3;233;big customer, cannot lose
+Dave Hallsten;1;3;3;133;big customer, cannot lose
+Tony Molinari;1;3;3;133;big customer, cannot lose
+Michael Chen;4;3;3;433;loyal customer
+Muhammed Lee;3;3;3;333;active customer
+Sonia Cooley;2;3;1;231;lost customer
+Karen Carlisle;1;3;1;131;lost customer
+Muhammed MacIntyre;3;3;1;331;active customer
+Harold Engle;3;3;1;331;active customer
+Tracy Poddar;3;3;2;332;active customer
+Christine Kargatis;4;3;2;432;active customer
+Alan Barnes;3;3;2;332;active customer
+Erica Hernandez;4;3;2;432;active customer
+Toby Gnade;3;3;2;332;active customer
+Katherine Hughes;4;3;1;431;active customer
+Toby Braunhardt;1;3;1;131;lost customer
+Anthony Garverick;2;3;1;231;lost customer
+Craig Reiter;4;3;4;434;loyal customer
+Theresa Coyne;3;3;4;334;active customer
+John Murray;1;3;4;134;big customer, cannot lose
+Troy Staebel;2;3;4;234;big customer, cannot lose
+Alan Schoenberger;4;3;4;434;loyal customer
+Maria Bertelson;4;3;4;434;loyal customer
+Craig Leslie;3;3;4;334;active customer
+Steve Carroll;2;3;4;234;big customer, cannot lose
+Jasper Cacioppo;1;3;3;133;big customer, cannot lose
+Helen Wasserman;1;3;3;133;big customer, cannot lose
+Lisa Ryan;1;3;4;134;big customer, cannot lose
+Tom Boeckenhauer;2;3;4;234;big customer, cannot lose
+Sanjit Chand;1;3;4;134;big customer, cannot lose
+Becky Martin;3;3;4;334;active customer
+Dean percer;2;3;4;234;big customer, cannot lose
+Jill Fjeld;4;3;4;434;loyal customer
+Dianna Wilson;1;3;4;134;big customer, cannot lose
+Seth Vernon;1;3;4;134;big customer, cannot lose
+Mitch Webber;2;3;4;234;big customer, cannot lose
+Eugene Moren;2;3;4;234;big customer, cannot lose
+Brad Norvell;3;3;4;334;active customer
+Anne McFarland;2;3;4;234;big customer, cannot lose
+Tamara Chand;2;3;4;234;big customer, cannot lose
+Toby Swindell;3;3;3;333;active customer
+Clay Ludtke;4;3;4;434;loyal customer
+Olvera Toch;1;3;4;134;big customer, cannot lose
+Stefania Perrino;4;3;4;434;loyal customer
+Nathan Gelder;2;3;4;234;big customer, cannot lose
+Joy Smith;2;3;4;234;big customer, cannot lose
+Dennis Kane;4;3;4;434;loyal customer
+Harold Dahlen;1;3;4;134;big customer, cannot lose
+Jamie Frazer;3;3;4;334;active customer
+Ken Brennan;4;3;1;431;active customer
+Herbert Flentye;3;3;1;331;active customer
+Mick Crebagga;1;3;1;131;lost customer
+Brian DeCherney;1;3;1;131;lost customer
+Alan Shonely;3;3;1;331;active customer
+Eric Hoffmann;1;3;1;131;lost customer
+Ashley Jarboe;2;3;3;233;big customer, cannot lose
+Sarah Foster;4;3;3;433;loyal customer
+Logan Currie;3;3;3;333;active customer
+Hunter Glantz;3;3;3;333;active customer
+Emily Phan;3;4;3;343;active customer
+Tiffany House;3;4;3;343;active customer
+Clytie Kelty;1;4;3;143;big customer, cannot lose
+Maribeth Dona;2;4;3;243;big customer, cannot lose
+Anna Häberlin;2;4;3;243;big customer, cannot lose
+Mitch Gastineau;4;4;3;443;loyal customer
+David Kendrick;3;4;3;343;active customer
+Darrin Martin;4;4;3;443;loyal customer
+Adam Shillingsburg;3;4;3;343;active customer
+Alyssa Tate;3;4;2;342;active customer
+Ann Chong;4;4;2;442;loyal customer
+Alex Grayson;4;4;2;442;loyal customer
+Trudy Brown;2;4;2;242;lost customer
+Carlos Soltero;2;4;2;242;lost customer
+Darren Koutras;4;4;2;442;loyal customer
+Jennifer Patt;1;4;2;142;lost customer
+Larry Blacks;3;4;2;342;active customer
+Greg Matthias;4;4;2;442;loyal customer
+Mark Hamilton;1;4;2;142;lost customer
+Roy Französisch;4;4;3;443;loyal customer
+Anthony Jacobs;4;4;3;443;loyal customer
+Denise Leinenbach;3;4;3;343;active customer
+Shahid Shariari;2;4;3;243;big customer, cannot lose
+Filia McAdams;3;4;3;343;active customer
+Logan Haushalter;1;4;3;143;big customer, cannot lose
+Steven Cartwright;3;4;3;343;active customer
+Evan Henry;1;4;3;143;big customer, cannot lose
+Ivan Gibson;4;4;3;443;loyal customer
+Dean Katz;4;4;1;441;active customer
+Ross DeVincentis;3;4;1;341;active customer
+Jeremy Farry;4;4;1;441;active customer
+Barry Blumstein;3;4;1;341;active customer
+Phillip Flathmann;4;4;2;442;loyal customer
+Shahid Hopkins;2;4;2;242;lost customer
+Maureen Gastineau;1;4;4;144;big customer, cannot lose
+Cindy Chapman;2;4;4;244;big customer, cannot lose
+Darrin Van Huff;2;4;4;244;big customer, cannot lose
+Corey Roper;1;4;4;144;big customer, cannot lose
+Cari MacIntyre;3;4;4;344;active customer
+Paul Stevenson;2;4;4;244;big customer, cannot lose
+Steven Roelle;2;4;4;244;big customer, cannot lose
+Sample Company A;1;4;4;144;big customer, cannot lose
+Art Foster;1;4;4;144;big customer, cannot lose
+Arthur Prichep;1;4;3;143;big customer, cannot lose
+Bobby Elias;2;4;3;243;big customer, cannot lose
+Sally Hughsby;2;4;4;244;big customer, cannot lose
+John Lee;2;4;4;244;big customer, cannot lose
+Aaron Bergman;2;4;4;244;big customer, cannot lose
+Todd Sumrall;2;4;4;244;big customer, cannot lose
+Ben Ferrer;3;4;4;344;active customer
+Sarah Brown;1;4;4;144;big customer, cannot lose
+Juliana Krohn;3;4;4;344;active customer
+Ralph Arnett;4;4;4;444;loyal customer
+Alan Hwang;4;4;4;444;loyal customer
+Zuschuss Carroll;4;4;4;444;loyal customer
+John Huston;3;4;4;344;active customer
+Steven Ward;3;4;4;344;active customer
+Peter Fuller;1;4;4;144;big customer, cannot lose
+Lena Creighton;2;4;4;244;big customer, cannot lose
+Odella Nelson;1;4;4;144;big customer, cannot lose
+Jonathan Doherty;4;4;4;444;loyal customer
+Mike Vittorini;3;4;4;344;active customer
+Rob Dowd;2;4;4;244;big customer, cannot lose
+Don Jones;4;4;4;444;loyal customer
+Matthew Clasen;4;4;4;444;loyal customer
+Christina Anderson;1;4;4;144;big customer, cannot lose
+Rose O'Brian;4;4;4;444;loyal customer
+Monica Federle;3;4;4;344;active customer
+Edward Hooks;4;4;4;444;loyal customer
+Speros Goranitis;1;4;2;142;lost customer
+Parhena Norris;3;4;2;342;active customer
+Suzanne McNair;2;4;2;242;lost customer
+Tony Chapman;4;4;2;442;loyal customer
+Brad Thomas;2;4;1;241;lost customer
+Sam Craven;3;4;1;341;active customer
+Bart Pistole;4;4;1;441;active customer
+Cyma Kinney;1;4;1;141;lost customer
+Frank Merwin;4;4;3;443;loyal customer
+Mick Brown;3;4;3;343;active customer
+Lela Donovan;1;4;3;143;big customer, cannot lose
+Scott Williamson;2;4;3;243;big customer, cannot lose
+Ben Peterman;4;4;3;443;loyal customer
+Heather Jas;4;4;3;443;loyal customer
+Bill Donatelli;4;4;3;443;loyal customer
+Roger Demir;2;4;2;242;lost customer
+Shui Tom;4;4;2;442;loyal customer
+Dan Campbell;1;4;2;142;lost customer
+Pauline Webber;3;4;2;342;active customer
+Valerie Mitchum;3;4;2;342;active customer
+Greg Hansen;4;4;2;442;loyal customer
+Sanjit Jacobs;2;4;2;242;lost customer
+Erica Smith;4;4;2;442;loyal customer
+Alejandro Ballentine;4;4;3;443;loyal customer
+Andrew Roberts;3;4;3;343;active customer
+Kean Takahito;1;4;3;143;big customer, cannot lose
+Henry Goldwyn;2;4;3;243;big customer, cannot lose
+Stewart Carmichael;1;4;3;143;big customer, cannot lose
+Marc Crier;1;4;3;143;big customer, cannot lose
+Max Engle;3;4;1;341;active customer
+Rick Bensley;4;4;4;444;loyal customer
+Maribeth Schnelling;4;4;4;444;loyal customer
+Michael Moore;3;4;4;344;active customer
+Dave Kipp;3;4;4;344;active customer
+Alice McCarthy;3;4;3;343;active customer
+Katharine Harms;2;4;3;243;big customer, cannot lose
+Ruben Dartt;2;4;3;243;big customer, cannot lose
+Emily Ducich;3;4;3;343;active customer
+Christopher Conant;4;4;4;444;loyal customer
+Sanjit Engle;3;4;4;344;active customer
+Muhammed Yedwab;4;4;4;444;loyal customer
+Fred Hopkins;4;4;4;444;loyal customer
+Harry Greene;3;4;4;344;active customer
+Laurel Beltran;1;4;4;144;big customer, cannot lose
+Saphhira Shifley;3;4;4;344;active customer
+Joy Bell-;4;4;4;444;loyal customer
+Steve Chapman;3;4;4;344;active customer
+Randy Bradley;3;4;4;344;active customer
+Justin Hirsh;2;4;4;244;big customer, cannot lose
+Keith Dawkins;1;4;4;144;big customer, cannot lose
+Maria Etezadi;4;4;4;444;loyal customer
+Joe Kamberova;1;4;4;144;big customer, cannot lose
+Adrian Barton;2;4;4;244;big customer, cannot lose
+Jane Waco;3;4;4;344;active customer
+Jack Lebron;3;4;3;343;active customer
+Ross Baird;2;4;4;244;big customer, cannot lose
+John Grady;4;4;4;444;loyal customer
+James Galang;4;4;4;444;loyal customer
+Tonja Turnell;3;4;4;344;active customer
+Christine Sundaresam;4;4;1;441;active customer
+Kelly Williams;2;4;1;241;lost customer
+Jennifer Halladay;4;4;2;442;loyal customer
+Jonathan Howell;1;4;3;143;big customer, cannot lose
+Sue Ann Reed;3;4;3;343;active customer
+Dan Reichenbach;4;4;3;443;loyal customer
+Andrew Gjertsen;1;4;3;143;big customer, cannot lose
+William Brown;2;4;3;243;big customer, cannot lose
+Carl Ludwig;3;4;3;343;active customer
+Shirley Daniels;3;4;3;343;active customer
+Karl Braun;4;4;3;443;loyal customer
+Shahid Collister;2;4;3;243;big customer, cannot lose
+Matt Collins;3;4;3;343;active customer
+Sam Zeldin;3;4;3;343;active customer
+Patrick Gardner;2;4;3;243;big customer, cannot lose
+Erica Bern;4;4;3;443;loyal customer
+Darren Powers;3;4;3;343;active customer
+Sarah Jordon;2;4;3;243;big customer, cannot lose
+Jennifer Braxton;3;4;2;342;active customer
+Dan Lawera;1;4;2;142;lost customer
+Dorothy Wardle;4;4;2;442;loyal customer
+Adam Bellavance;1;4;4;144;big customer, cannot lose
+Resi Pölking;3;4;4;344;active customer
+Dario Medina;3;4;4;344;active customer
+Gary Hwang;2;4;4;244;big customer, cannot lose
+Nathan Mautz;2;4;4;244;big customer, cannot lose
+Harry Marie;4;4;4;444;loyal customer
+Daniel Raglin;2;4;4;244;big customer, cannot lose
+Brosina Hoffman;2;4;4;244;big customer, cannot lose
+Patrick O'Donnell;4;4;4;444;loyal customer
+Mike Pelletier;2;4;4;244;big customer, cannot lose
+Bill Eplett;1;4;4;144;big customer, cannot lose
+Joel Eaton;2;4;4;244;big customer, cannot lose
+Adam Hart;4;4;4;444;loyal customer
+Jim Mitchum;3;4;4;344;active customer
+Kelly Andreada;2;4;4;244;big customer, cannot lose
+Trudy Glocke;4;4;4;444;loyal customer
+Denny Ordway;1;4;4;144;big customer, cannot lose
+Michael Kennedy;2;4;2;242;lost customer
+Julie Prescott;2;4;2;242;lost customer
+Maxwell Schwartz;1;4;3;143;big customer, cannot lose
+Philip Fox;1;4;3;143;big customer, cannot lose
+Bruce Degenhardt;4;4;3;443;loyal customer
+Chloris Kastensmidt;4;4;2;442;loyal customer
+Philip Brown;4;4;1;441;active customer
+Tim Brockman;4;4;4;444;loyal customer
+Joe Elijah;3;4;4;344;active customer
+Damala Kotsonis;2;4;4;244;big customer, cannot lose
+Alejandro Savely;2;4;4;244;big customer, cannot lose
+Gary Zandusky;3;4;4;344;active customer
+Theone Pippenger;4;4;4;444;loyal customer
+Natalie Fritzler;4;4;4;444;loyal customer
+Eugene Hildebrand;2;4;4;244;big customer, cannot lose
+Chris Cortes;2;4;1;241;lost customer
+Gary Hansen;2;4;3;243;big customer, cannot lose
+Noel Staavos;1;4;3;143;big customer, cannot lose
+Anthony Rawles;2;4;3;243;big customer, cannot lose
+Joseph Holt;3;4;4;344;active customer
+Bryan Mills;4;4;4;444;loyal customer
+Tracy Blumstein;2;4;4;244;big customer, cannot lose
+Bart Watters;1;4;4;144;big customer, cannot lose
+Art Ferguson;4;4;4;444;loyal customer
+Eric Murdock;4;4;4;444;loyal customer
+Patrick O'Brill;4;4;4;444;loyal customer
+Laura Armstrong;4;4;4;444;loyal customer
+Kristen Hastings;4;4;4;444;loyal customer
+Sara Luxemburg;2;4;3;243;big customer, cannot lose
+Anna Andreadi;2;4;3;243;big customer, cannot lose
+Michael Paige;2;4;3;243;big customer, cannot lose
+Frank Olsen;2;4;3;243;big customer, cannot lose
