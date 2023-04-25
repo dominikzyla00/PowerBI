@@ -81,7 +81,7 @@
 
 
 **RFM Analysis**
-![image](https://user-images.githubusercontent.com/113947177/234261229-38d3cbbd-287a-4650-a124-1fbd2a5b9209.png)
+![image](https://user-images.githubusercontent.com/113947177/234268942-45cd10a5-13e8-4de3-bada-d065cf43293f.png)
 
 **Insights:**
 - Most Sales from 2011 to 2014 were made by customers that are considered as "Lost Customers" now (Company should think about the way how to keep these customers)
