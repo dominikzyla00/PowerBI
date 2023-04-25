@@ -76,7 +76,6 @@
 - Shipping Cost and Order Processing time are negatively correlated and dependent on Ship Mode
 - Shipping cost is lower in **Technology Category** than in other Categories by 70%~
 - Order processing Time is lowest in Canada **3,68** (0,29 days below average)
-- 
 
 
 **RFM Analysis**
