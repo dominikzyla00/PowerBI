@@ -65,7 +65,7 @@
 
 **Shipping and Order Processing Analysis**
 - We have Shipping and Order Processing Analysis Map in hidden tab which we can access via button at the left top of the bashboard
-![image](https://user-images.githubusercontent.com/113947177/234254422-4ea0ee3f-53bb-46ec-be7a-fcde999ff2bb.png)
+![image](https://user-images.githubusercontent.com/113947177/234268771-65eb10a1-a171-4ace-99d8-361e4d1cf232.png)
 
 ![image](https://user-images.githubusercontent.com/113947177/234254491-a5283cce-c928-4af5-8eef-d0b5b573b584.png)
 
@@ -76,6 +76,8 @@
 - Shipping Cost and Order Processing time are negatively correlated and dependent on Ship Mode
 - Shipping cost is lower in **Technology Category** than in other Categories by 70%~
 - Order processing Time is lowest in Canada **3,68** (0,29 days below average)
+- APAC market have highest shipping cost, EMEA and Canada have the lowest
+- 59,57% of the orders have **Standard shipping** mode, least preferred is **Same day** with 5,29%
 
 
 **RFM Analysis**
@@ -84,5 +86,4 @@
 **Insights:**
 - Most Sales from 2011 to 2014 were made by customers that are considered as "Lost Customers" now (Company should think about the way how to keep these customers)
 - Most customers are in Consumer Segment
-- APAC market have highest shipping cost, EMEA and Canada have the lowest
-- 59,57% of the orders have **Standard shipping** mode, least preferred is **Same day** with 5,29%
+
