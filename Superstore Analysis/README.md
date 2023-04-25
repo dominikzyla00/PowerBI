@@ -35,14 +35,6 @@ Insights:
 
 
 **Profit Analysis**
-Insights:
-- Company Profit went from  249K to 504k so it doubled in 3 years (34,17 % YoY Growth)
-It says that company Profit Growth is more dynamic that Sales Growth
-- Most items are bought by **Consumer segment**
-- Most profit (45,18%) is from **Technology** Category and the least (19,52%) is from **Furniture**
-- Most profit by market: **APAC**, by country: **US**
-- The most dynamic YoY Profit Growth was in **EMEA** 109,34% and least dynamic in **APAC** 23,05%
-
 - We have Profit by Country Map in hidden tab which we can access via button at the left bottom of the bashboard
 ![image](https://user-images.githubusercontent.com/113947177/234248676-623105eb-151f-4c0f-9ae8-8234e2750899.png)
 
@@ -55,6 +47,7 @@ It says that company Profit Growth is more dynamic that Sales Growth
 - Most profit (45,18%) is from **Technology** Category and the least (19,52%) is from **Furniture**
 - Most profit by market: **APAC**, by country: **US**
 - The most dynamic YoY Profit Growth was in **EMEA** 109,34% and least dynamic in **APAC** 23,05%
+- Sales are above average in **June** and from **August to December**
 
 
 **Product Analysis**
@@ -64,5 +57,9 @@ It says that company Profit Growth is more dynamic that Sales Growth
 ![image](https://user-images.githubusercontent.com/113947177/234250821-21ad9a8e-1270-4d44-88de-b6854d4c2dd2.png)
 
 Insights:
-- 
+- Company has 10.29K **Unique Products**
+- Best selling product is **Eldon File Cart** and Worst selling product is **Star Micronics TSP100 TSP 143LAN Receipt Printer**
+- Shipping cost is the highest in **Technology** Category
+- Biggest Average Discount is on **Furniture** Category (16,81%)
+- In terms of quantity, the highest amount of items have been ordered from the **Office Supplies** Category(almost 3 times more than other categories)
 
