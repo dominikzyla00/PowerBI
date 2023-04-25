@@ -5,7 +5,7 @@
 **DATA SOURCE:** https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
 - Sales between 2011 and 2014
 
-# DASHBOARDS
+**DASHBOARDS LIST**
 
 - Sales Analysis
 - Profit Analysis
@@ -17,3 +17,5 @@
 
 - Microsoft PowerBI
 - SQL Server Mnagement Studio
+
+
