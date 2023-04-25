@@ -19,14 +19,31 @@
 - RFM Analysis
 
 **Sales Analysis**
+- We have Sales by Country map in hidden tab which we can access via button at the left bottom of the bashboard
+![image](https://user-images.githubusercontent.com/113947177/234248620-54cfb22a-913c-4232-bcdf-df9e14a079da.png)
 
-![image](https://user-images.githubusercontent.com/113947177/234233772-4afe64c4-5b77-4f9e-840e-54f782e0399d.png)
 ![image](https://user-images.githubusercontent.com/113947177/234237512-8d683598-91dc-4c57-9c15-7fca55ccbbd6.png)
 
 
 Insights:
-- Company Sales went from  1.38M to 2.67M so they almost doubled in 3 years
-- Same happend with company Items Sold, from 31.5K to 60.6K so they also almost doubled n 3 years
-- Most items are bought by Consumer segment
-- Most items sold are in Office Supplies Category for all Segments (35,6%)
-- Most items sold by market: APAC, by country: US
+- Company Sales went from  1.38M to 2.67M so they almost doubled in 3 years (31,21% YoY Growth)
+- Same happend with company Items Sold, from 31.5K to 60.6K
+- Most items are bought by **Consumer segment**
+- Most items sold are in **Office Supplies** Category for all Segments (35,6%)
+- Most items sold by market: **APAC**, by country: **US**
+- The most dynamic YoY Sales Growth was in **Africa** 40,69% and least dynamic in **US** 19,53%
+
+**Profit Analysis**
+- We have Profit by Country map in hidden tab which we can access via button at the left bottom of the bashboard
+![image](https://user-images.githubusercontent.com/113947177/234248676-623105eb-151f-4c0f-9ae8-8234e2750899.png)
+![image](https://user-images.githubusercontent.com/113947177/234240596-11cf6dc3-99c3-4a9b-a289-398fbb4e1079.png)
+
+Insights:
+- Company Profit went from  249K to 504k so it doubled in 3 years (34,17 % YoY Growth)
+It says that company Profit Growth is more dynamic that Sales Growth
+- Most items are bought by **Consumer segment**
+- Most profit (45,18%) is from **Technology** Category and the least (19,52%) is from **Furniture**
+- Most profit by market: **APAC**, by country: **US**
+- The most dynamic YoY Profit Growth was in **EMEA** 109,34% and least dynamic in **APAC** 23,05%
+
+
