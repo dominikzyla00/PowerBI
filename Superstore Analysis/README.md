@@ -42,7 +42,7 @@
 
 **Insights:**
 - Company Profit went from  249K to 504k so it doubled in 3 years (34,17 % YoY Growth)
-It says that company Profit Growth is more dynamic that Sales Growth
+- Profit Growth is more dynamic that Sales Growth
 - Most items are bought by **Consumer segment**
 - Most profit (45,18%) is from **Technology** Category and the least (19,52%) is from **Furniture**
 - Most profit by market: **APAC**, by country: **US**
@@ -84,6 +84,7 @@ It says that company Profit Growth is more dynamic that Sales Growth
 
 **Insights:**
 - Most Sales from 2011 to 2014 were made by customers that are considered as "Lost Customers" now
+
 Company should think about the way how to keep these customers
 - Most customers are in Consumer Segment
 - APAC market have highest shipping cost, EMEA and Canada have the lowest
